@@ -2,3 +2,4 @@ test-1
 branch-a : test-2
 branch-a : test-3
 branch-b : test-1
+branch-b : test-2
